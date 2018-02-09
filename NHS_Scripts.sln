@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHS_Scripts", "NHS_Scripts\NHS_Scripts.csproj", "{970C3E8C-7501-4267-826F-7B994E864B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHS_Scripts.Tests", "NHS_Scripts.Tests\NHS_Scripts.Tests.csproj", "{D9008E7C-C86D-45BE-9635-F7FC154F9248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970C3E8C-7501-4267-826F-7B994E864B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970C3E8C-7501-4267-826F-7B994E864B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970C3E8C-7501-4267-826F-7B994E864B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970C3E8C-7501-4267-826F-7B994E864B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9008E7C-C86D-45BE-9635-F7FC154F9248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9008E7C-C86D-45BE-9635-F7FC154F9248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9008E7C-C86D-45BE-9635-F7FC154F9248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9008E7C-C86D-45BE-9635-F7FC154F9248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA7296C9-57E3-4FD0-90D1-39FBB32904C9}
+	EndGlobalSection
+EndGlobal
